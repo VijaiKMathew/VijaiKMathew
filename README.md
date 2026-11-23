@@ -1,6 +1,6 @@
 # Hi there, I'm Vijai K. Mathew 👋
 
-### Staff AI Engineer & Distributed Systems Architect (10+ YOE)
+### Senior Machine Learning Engineer (10+ YOE)
 **Bengaluru, India**
 
 <p align="left">
