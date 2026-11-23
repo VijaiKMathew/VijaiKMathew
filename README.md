@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h4>☁️ Enterprise Cloud Native LLMOps & FinOps</h4>
       <ul>
-        <li>Containerized microservices on <b>Azure Kubernetes Service (AKS)</b> with <b>HPA</b>.</li>
+        <li>Containerized microservices on <b>Kubernetes</b> with Horizontal Pod Autoscaling (<b>HPA</b>).</li>
         <li>Strict FinOps: dynamic cluster hibernation enforcing <b>zero recurring idle cost</b>.</li>
         <li>Distributed training and orchestration on <b>Ray</b> and <b>Databricks</b>.</li>
         <li>Observability pipelines: Prometheus, Grafana, OpenTelemetry, and OpenLLMetry.</li>
@@ -108,18 +108,10 @@
 
 | Flagship Repository | Domain & Architecture | Key Production Highlights | Status |
 | :--- | :--- | :--- | :---: |
-| 🏆 [****](https://github.com/VijaiKMathew/kaggle-s6e10-airline-satisfaction) | **Top 1% Champion Pipeline**<br>   | • Top 1% Gold-Tier ML solution out of 2,400+ international teams<br>• 0.96342 ROC-AUC with leak-free out-of-fold blending<br>• 1-command / replication & live showcase | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-gold.svg)](https://github.com/VijaiKMathew/kaggle-s6e10-airline-satisfaction/releases) |
-| 🌾 [****](https://github.com/VijaiKMathew/kaggriculture) | **Multi-Agent RL & Simulation**<br>   | • Peak Leaderboard #1 & 3,094 Elo simulation agent<br>• Vectorized environment achieving 120,000+ steps/second<br>• Companion dataset with 510+ downloads on Kaggle | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-green.svg)](https://github.com/VijaiKMathew/kaggriculture/releases) |
-| 🧠 [****](https://github.com/VijaiKMathew/k12-math-misconception-detection) | **Domain NLP & Model Soups**<br>   | • Automated mathematical misconception diagnosis in student work<br>• Stochastic Weight Averaging & Model-Soup ensembling<br>• Modular training, evaluation, and submission pipeline | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-purple.svg)](https://github.com/VijaiKMathew/k12-math-misconception-detection/releases) |
-| 🪐 [****](https://github.com/VijaiKMathew/orbit-wars) | **Analytical Geometry & Game AI**<br>   | • Vectorized trajectory rollouts & analytical intercept solvers<br>• Zero-latency game-theoretic decision policies under constraints<br>• Comprehensive visual battle simulator | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-orange.svg)](https://github.com/VijaiKMathew/orbit-wars/releases) |
-
---- | :--- | :--- | :---: |
-| ✈️ [**`aks-airline-copilot`**](https://github.com/VijaiKMathew/aks-airline-copilot) | **Enterprise LLMOps & FinOps**<br>`[Kubernetes]` `[FastAPI]` `[HPA]` `[Azure]` | • Containerized on Azure Kubernetes Service (AKS) with HPA<br>• Zero-cost idle posture via FinOps cluster hibernation<br>• C4 Architecture diagrams & ADR-001 through ADR-004 | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/VijaiKMathew/aks-airline-copilot/releases) |
 | 🏆 [**`kaggle-s6e10-airline-satisfaction`**](https://github.com/VijaiKMathew/kaggle-s6e10-airline-satisfaction) | **Top 1% Champion Pipeline**<br>`[LightGBM]` `[uv]` `[Zero-Leakage]` | • Top 1% Gold-Tier ML solution out of 2,400+ international teams<br>• 0.96342 ROC-AUC with leak-free out-of-fold blending<br>• 1-command `uv`/`make` replication & live showcase | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-gold.svg)](https://github.com/VijaiKMathew/kaggle-s6e10-airline-satisfaction/releases) |
 | 🌾 [**`kaggriculture`**](https://github.com/VijaiKMathew/kaggriculture) | **Multi-Agent RL & Simulation**<br>`[JAX]` `[Gymnasium]` `[Decision Transformer]` | • Peak Leaderboard #1 & 3,094 Elo simulation agent<br>• Vectorized environment achieving 120,000+ steps/second<br>• Companion dataset with 510+ downloads on Kaggle | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-green.svg)](https://github.com/VijaiKMathew/kaggriculture/releases) |
 | 🧠 [**`k12-math-misconception-detection`**](https://github.com/VijaiKMathew/k12-math-misconception-detection) | **Domain NLP & Model Soups**<br>`[Qwen 2.5]` `[DeBERTa-v3]` `[PyTorch]` | • Automated mathematical misconception diagnosis in student work<br>• Stochastic Weight Averaging & Model-Soup ensembling<br>• Modular training, evaluation, and submission pipeline | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-purple.svg)](https://github.com/VijaiKMathew/k12-math-misconception-detection/releases) |
 | 🪐 [**`orbit-wars`**](https://github.com/VijaiKMathew/orbit-wars) | **Analytical Geometry & Game AI**<br>`[Simulation]` `[Trajectory Planning]` `[Python]` | • Vectorized trajectory rollouts & analytical intercept solvers<br>• Zero-latency game-theoretic decision policies under constraints<br>• Comprehensive visual battle simulator | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-orange.svg)](https://github.com/VijaiKMathew/orbit-wars/releases) |
-| 🔬 [**`physical-engineerings-last-exam`**](https://github.com/VijaiKMathew/physical-engineerings-last-exam) | **Autonomous Engineering Agents**<br>`[Agentic AI]` `[Reasoning]` `[Harness]` | • Autonomous engineering agent verification harness<br>• Deterministic cross-domain physical problem reasoning<br>• Stage 1 writeup & multi-disciplinary solver suites | [![v1.0.0](https://img.shields.io/badge/Release-v1.0.0-red.svg)](https://github.com/VijaiKMathew/physical-engineerings-last-exam/releases) |
 
 ---
 
