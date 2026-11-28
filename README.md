@@ -1,4 +1,4 @@
-# Hi there, I'm Vijai K. Mathew 👋
+# Hi there, I'm Vijai Mathew 👋
 
 ### Senior Machine Learning Engineer (10+ YOE)
 **Bengaluru, India**
